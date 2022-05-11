@@ -1,2 +1,2 @@
 # company-profile-master
- Nifawor Company Profile
+ Nifaword Company Profile
